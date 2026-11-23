@@ -33,7 +33,7 @@ This project focuses on analyzing hospital patient readmission data using Micros
 - Analytical Thinking
 
 ## Project Outcome
-Developed an Excel-based hospital readmission analysis dashboard to organize healthcare data, explore readmission patterns, and communicate key metrics through visual reporting.
+Developed an Excel-based hospital readmission analysis dashboard to organize healthcare data, explore readmission patterns and communicate key metrics through visual reporting.
 
 ## Conclusion
 This project demonstrates practical Microsoft Excel skills applied to healthcare data analysis and dashboard reporting.
